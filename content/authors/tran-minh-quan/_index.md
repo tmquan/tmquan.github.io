@@ -7,7 +7,12 @@ bio: His research is centered around GPU-accelerated computing on biomedical
   using sparsifying transforms such as Wavelet transform, or recently leveraging
   data-driven machine learning methods to deliver a higher quality of the
   reconstructed MRI.
-social: []
+social:
+  - display:
+      header: true
+    link: https://scholar.google.com/citations?hl=en&user=1kx2NrUAAAAJ
+    icon_pack: ai
+    icon: Google Scholar
 organizations: []
 education:
   courses:
